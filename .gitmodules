@@ -1,5 +1,5 @@
 
-[submodule "-f"]
+[submodule "cyborg-core"]
 	path = cyborg-core
 	url = git@github.com:intuition-robotics/cyborg-core.git
 [submodule "cyborg-x"]
