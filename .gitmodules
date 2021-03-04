@@ -5,3 +5,6 @@
 [submodule "cyborg-x"]
 	path = cyborg-x
 	url = git@github.com:intuition-robotics/cyborg-core.git
+[submodule "dev-tools"]
+	path = dev-tools
+	url = git@github.com:intuition-robotics/dev-tools.git
